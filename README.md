@@ -1,4 +1,5 @@
 # EDS124BR
+Week 4 first video: https://youtu.be/tTLJbLe4m7U
 week 3 second video: https://youtu.be/Abrql4yhhCY
 week 3 first video: https://youtu.be/9IwnujWSyo8
 week 2 second video: https://youtu.be/AutnrJ7UZA0
